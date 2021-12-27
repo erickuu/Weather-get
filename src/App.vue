@@ -2,7 +2,7 @@
   <div id="app">
     <main>
       <div class="search-box">
-        <h1>Mr Water.com</h1>
+        <h1>Mr Water</h1>
         <input 
           type="text" 
           class="search-bar" 
